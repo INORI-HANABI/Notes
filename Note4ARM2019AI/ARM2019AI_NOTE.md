@@ -54,7 +54,7 @@ Innovative Architecture  专门为AIPU打造的指令集（高中低三个复杂
 
 ### Trends
 
-Samll model:Quantization, Model optimization
+Small model:Quantization, Model optimization
 
 Powerful chip:Specialized design for AI, Power efficiency improvement
 
