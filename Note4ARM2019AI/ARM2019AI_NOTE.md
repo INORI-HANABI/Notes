@@ -68,9 +68,7 @@ SIMD instructions coming
 
 ##### Energy is the limiting factor
 
-> MCU is very power efficient
-
-CPU is free, but peripherals and radios are not
+MCU is very power efficient and CPU is free, but peripherals and radios are not
 
 ##### Potential use cases  
 
